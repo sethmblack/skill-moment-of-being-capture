@@ -3,8 +3,8 @@ name: moment-of-being-capture
 description: Find and articulate the luminous moments within ordinary experience where meaning becomes visible—the breaks in "cotton wool" when pattern reveals itself.
 license: MIT
 metadata:
+  version: 1.0.4522
   author: sethmblack
-  version: 1.0.4521
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - moment-of-being-capture
